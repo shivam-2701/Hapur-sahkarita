@@ -1,0 +1,44 @@
+@media (max-width:1600px){
+.navbar-brand img{max-height: 50px;}
+.nav-link {font-size: 14px;padding: 10px 10px !important;}
+}
+@media (max-width:1440px){
+.navbar-brand img{max-height: 40px;}
+.nav-link {font-size: 14px;padding: 10px 8px !important;}
+}
+@media (max-width:1366px){
+    .navbar-brand img{max-height: 35px;}
+    .nav-link {font-size: 13px;padding: 10px 8px !important;}
+}
+@media (min-width: 1200px) {
+.dropend:hover > .dropdown-menu {position: absolute;top: 0;left: 100%;}
+.navbar-expand-xl .navbar-nav .dropdown-menu {border-radius: 0;min-width: 220px;border: 0;box-shadow: 0 0 5px 0px #e3e3e3;}
+}
+@media (max-width:1199px){
+.top_services {position: relative;top: 15px; margin-bottom: 50px;}
+.top_services .investor-box{padding: 5px;}
+.top_services .investor-box h5{font-size: 1rem;}
+.navbar-brand img{max-height: 45px;}
+.nav-link {font-size: 16px;padding: 10px 10px !important;}
+}
+@media (max-width:991px){
+.banner .carousel-caption{max-width: 650px;padding-right: 35%;width: 100%;}
+ul.whats_included li .icon{width: 80px; height: 80px;}
+ul.whats_included li .content{width: calc(100% - 100px);}
+.page_img{max-height: 400px;}
+.banner h2{font-size: 18px;}
+.navbar-toggler{border: none;}
+.navbar-toggler:focus {box-shadow: none;}
+.dropdown-toggle::after {float: right;margin-top: 9px;}
+.nav-link {padding: 7px 2px !important;}
+.nav-link {font-size: 16px;}
+.navbar-collapse {background: #eee;padding: 0 10px;position: absolute;top: 87px;width: 100%;left: 0;}
+}
+@media (max-width:767px){
+.top_services{width: 100%;}
+.side_tabs {max-height: 200px;overflow-y: auto;overflow-x: hidden;padding-right: 15px;}
+}
+@media (max-width:575px){
+.topbar .text-end {font-size: 13px;}
+.topbar .bi {font-size: 14px;}
+}
